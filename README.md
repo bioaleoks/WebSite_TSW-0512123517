@@ -1,2 +1,1 @@
-# WebSite_TSW-0512123517
-E-commerce web application developed for the Web Software Technologies exam. 
+Alessia Plaitano — Student ID: 0512123517. This project implements a complete e‑commerce web application developed for the Web Software Technologies exam. It includes user and admin authentication, product catalog management, session‑based shopping cart, order processing, and a responsive interface. Technologies: Java Servlet/JSP; MVC architecture; DAO pattern; DataSource; AJAX; JavaScript validation with RegEx; HTML/CSS; relational database with ER modelling. Project structure: source code (Servlets, DAO, Model), JSP views, static resources (CSS, JS, images), SQL scripts, and Website Design Document (PDF).
